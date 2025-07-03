@@ -1,0 +1,9 @@
+Ethem Alpaydin. Introduction to Machine Learning, The MIT Press, 2020.
+S. Theodoridis and K. Koutroumbas. Pattern Recognition, Academic Press, 2008.
+Yaser S. Abu-Mostafa, Malik Magdon-Ismail, Hsuan-Tien Lin. Learning From Data, AMLBook, 2012.
+Kevin P. Murphy. Machine Learning: A Probabilistic Perspective, The MIT Press, 2012
+Trevor Hastie, Robert Tibshirani, Jerome Friedman. The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Springer, 2013.
+Ian Goodfellow and Yoshua Bengio and Aaron Courville. Deep Learning. MIT Press, 2016. http://www.deeplearningbook.org
+M. J. Saki and W. Meira. Data Mining and Machine Learning. Cambridge University Press, 2020.
+Braga, A., Carvalho, A.C.P.L.F. e Ludermir, T. Redes Neurais Artificiais: Teoria e Aplicações. LTC
+Facelli, K., Lorena, A.C., Gama, J., Carvalho, A.C.P.L.F. Inteligência Artificial. Uma abordagem de Aprendizado de Máquina

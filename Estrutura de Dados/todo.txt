@@ -1,0 +1,5 @@
+CORMEN, T., LEISERSON, C., RIVEST, R., STEIN, C. Introduction to Algorithms. MIT Press, 4th Edition, 2022.
+ROBERTS, E. S. Programming Abstractions in C++. Pearson, 1st Edition, 2013.
+SIERRA, K., BATES, B. Head First Java. O'Reilly Media, 2nd Edition, 2005.
+BECK, K. Test Driven Development: By Example. Addison-Wesley Professional, 2002.
+MARTIN, R. C. Clean Code: A Handbook of Agile Software Craftsmanship. Prentice Hall, 2008.
